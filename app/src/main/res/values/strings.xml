@@ -4,5 +4,10 @@
     <string name="app_name">Asynclistview</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="signin">Enviar</string>
+    <string name="cancel">Cancelar</string>
 
+    <string name="welcome">This is a DialogFragment.</string>
+    <string name="dialogfragment">Open DialogFragment</string>
+    <string name="alertdialogfragment">Open Alert DialogFragment</string>
 </resources>
